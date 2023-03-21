@@ -46,7 +46,7 @@
             app:cardBackgroundColor="#86BFC4"
 
             android:foreground="?attr/selectableItemBackground"
-            app:cardCornerRadius="15dp"
+            app:cardCornerRadius="30dp"
             app:cardElevation="8dp"
             >
 
